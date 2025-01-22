@@ -30,8 +30,8 @@ GenQuery 2.0 is an intelligent SQL assistant that helps users write, format, and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/genquery-2.0.git
-cd genquery-2.0
+https://github.com/Monishg2004/GenQuery.git
+cd genquery
 ```
 
 2. Install required packages:
